@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.log
+*.sqlite3
+
+# Virtual environment
+venv/
+env/
+
+
+# PyTorch / Transformers cache
+*.pt
+*.pth
+*.safetensors
+.cache/
+transformers/
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+*.out
+
+# Temporary files
+*.tmp
+*.swp
+
+*.pkl
+
+*.csv

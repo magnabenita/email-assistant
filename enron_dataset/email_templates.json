@@ -1,0 +1,148 @@
+{
+  "greeting": [
+    "Hello {name},",
+    "Hi {name},",
+    "Dear {name},",
+    "Hey {name},",
+    "Greetings {name},",
+    "Good day {name},",
+    "Hi there {name},",
+    "Hello and welcome {name},",
+    "Hope you’re doing well, {name},",
+    "Hi {name}, hope all is good!"
+  ],
+  "sign_off": [
+    "Best regards,",
+    "Sincerely,",
+    "Kind regards,",
+    "Warm regards,",
+    "Thanks,",
+    "Cheers,",
+    "With appreciation,",
+    "Yours truly,",
+    "All the best,",
+    "Respectfully,"
+  ],
+  "polite_request": [
+    "Could you please {action}?",
+    "I would appreciate it if you could {action}.",
+    "Can you kindly {action}?",
+    "Would you mind {action}?",
+    "Please {action} at your earliest convenience.",
+    "It would be great if you could {action}.",
+    "I kindly request you to {action}.",
+    "Would appreciate your help to {action}.",
+    "Please consider {action}.",
+    "Hoping you can {action}."
+  ],
+  "polite_suggestion": [
+    "I suggest that we {suggestion}.",
+    "It might be a good idea to {suggestion}.",
+    "Perhaps we could {suggestion}.",
+    "I recommend {suggestion}.",
+    "Consider {suggestion}.",
+    "We might want to {suggestion}.",
+    "One option is to {suggestion}.",
+    "It may help to {suggestion}.",
+    "I propose we {suggestion}.",
+    "You could {suggestion}."
+  ],
+  "apology": [
+    "I apologize for {issue}.",
+    "Sorry for any inconvenience caused by {issue}.",
+    "Please accept my apologies regarding {issue}.",
+    "We regret the issue of {issue}.",
+    "Apologies for {issue}.",
+    "I am sorry about {issue}.",
+    "My sincere apologies for {issue}.",
+    "We apologize for the inconvenience caused by {issue}.",
+    "Regret the trouble regarding {issue}.",
+    "I want to apologize for {issue}."
+  ],
+  "thank_you": [
+    "Thank you for {action}.",
+    "I appreciate your help with {action}.",
+    "Thanks for {action}.",
+    "Many thanks for {action}.",
+    "Thanks a lot for {action}.",
+    "Much appreciated for {action}.",
+    "Grateful for {action}.",
+    "Thank you so much for {action}.",
+    "Thanks kindly for {action}.",
+    "I am thankful for {action}."
+  ],
+  "paraphrase_template": [
+    "In other words, {text}.",
+    "To rephrase, {text}.",
+    "Another way to say it: {text}.",
+    "Simply put, {text}.",
+    "Put differently, {text}.",
+    "This means: {text}.",
+    "You could also say: {text}.",
+    "Reworded: {text}.",
+    "To put it another way: {text}.",
+    "Stated differently: {text}."
+  ],
+  "intent_responses": {
+    "greeting": [
+      "Hello {name}, hope you are doing well!",
+      "Hi {name}, nice to connect with you.",
+      "Dear {name}, hope you’re having a good day.",
+      "Hey {name}, hope everything’s fine!",
+      "Greetings {name}, hope you’re doing great.",
+      "Hi {name}, hope your day is going well.",
+      "Hello {name}, good to see your message.",
+      "Hey {name}, hope all is well with you.",
+      "Hi {name}, nice to hear from you.",
+      "Dear {name}, hope things are good!"
+    ],
+    "request": [
+      "Could you please {action} regarding {topic}?",
+      "I would appreciate it if you could {action} for {topic}.",
+      "Can you kindly {action} about {topic}?",
+      "Would you mind {action} related to {topic}?",
+      "Please {action} at your earliest convenience about {topic}.",
+      "It would be great if you could {action} for {topic}.",
+      "I kindly request you to {action} concerning {topic}.",
+      "Would appreciate your help to {action} regarding {topic}.",
+      "Please consider {action} for {topic}.",
+      "Hoping you can {action} concerning {topic}."
+    ],
+    "information": [
+      "Here is the information about {topic} you requested.",
+      "Providing the details on {topic} as discussed.",
+      "This is the information regarding {topic}.",
+      "Attached is the information on {topic}.",
+      "Below are the details about {topic}.",
+      "Sharing the relevant info for {topic}.",
+      "Here’s what you need to know about {topic}.",
+      "Information regarding {topic} is as follows.",
+      "Please find the information about {topic}.",
+      "Details on {topic} are provided below."
+    ],
+    "complaint": [
+      "I am concerned about {issue}.",
+      "We have an issue regarding {issue}.",
+      "Please address the problem of {issue} as soon as possible.",
+      "I am writing to complain about {issue}.",
+      "There is a concern regarding {issue}.",
+      "We are facing a problem with {issue}.",
+      "Kindly look into {issue} at the earliest.",
+      "The issue of {issue} needs attention.",
+      "I would like to report a problem: {issue}.",
+      "Please resolve the matter concerning {issue}."
+    ],
+    "other": [
+      "Regarding {topic}, please see the details.",
+      "This is an update on {topic}.",
+      "Follow-up on {topic}.",
+      "Information related to {topic} for your reference.",
+      "Please review the following on {topic}.",
+      "Here is an update regarding {topic}.",
+      "Sharing some thoughts about {topic}.",
+      "Please note the details concerning {topic}.",
+      "A quick note about {topic}.",
+      "This concerns {topic}."
+    ]
+  }
+}
