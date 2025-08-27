@@ -44,3 +44,7 @@ transformers/
 *.pkl
 
 *.csv
+
+
+# Node modules (if any frontend)
+node_modules/
