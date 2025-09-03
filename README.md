@@ -78,7 +78,7 @@ project/
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Magna Benita P** – Initial development of the backend
 
