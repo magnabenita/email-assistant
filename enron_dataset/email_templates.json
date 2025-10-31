@@ -97,28 +97,28 @@
       "Dear {name}, hope things are good!"
     ],
     "request": [
-      "Could you please {action} regarding {topic}?",
-      "I would appreciate it if you could {action} for {topic}.",
-      "Can you kindly {action} about {topic}?",
-      "Would you mind {action} related to {topic}?",
-      "Please {action} at your earliest convenience about {topic}.",
-      "It would be great if you could {action} for {topic}.",
-      "I kindly request you to {action} concerning {topic}.",
-      "Would appreciate your help to {action} regarding {topic}.",
-      "Please consider {action} for {topic}.",
-      "Hoping you can {action} concerning {topic}."
+      "Could you please {action}?",
+      "I would appreciate it if you could {action}.",
+      "Can you kindly {action}?",
+      "Would you mind {action}?",
+      "Please {action} at your earliest convenience.",
+      "It would be great if you could {action}.",
+      "I kindly request you to {action}.",
+      "Would appreciate your help to {action}.",
+      "Please consider {action}.",
+      "Hoping you can {action}."
     ],
     "information": [
-      "Here is the information about {topic} you requested.",
-      "Providing the details on {topic} as discussed.",
-      "This is the information regarding {topic}.",
-      "Attached is the information on {topic}.",
-      "Below are the details about {topic}.",
-      "Sharing the relevant info for {topic}.",
-      "Here’s what you need to know about {topic}.",
-      "Information regarding {topic} is as follows.",
-      "Please find the information about {topic}.",
-      "Details on {topic} are provided below."
+      "Here is the information you requested.",
+      "Providing the details as discussed.",
+      "This is the information you asked for.",
+      "Attached are the relevant details.",
+      "Below are the requested details.",
+      "Sharing the information you might need.",
+      "Please find the details below.",
+      "Following up on the information you requested.",
+    "I wanted to share additional details regarding this."
+
     ],
     "complaint": [
       "I am concerned about {issue}.",
@@ -130,19 +130,34 @@
       "Kindly look into {issue} at the earliest.",
       "The issue of {issue} needs attention.",
       "I would like to report a problem: {issue}.",
-      "Please resolve the matter concerning {issue}."
+      "Please resolve the matter concerning {issue}.",
+      "Dear {name},\n\nI am writing to express my concern regarding {issue}. I would appreciate it if you could look into this matter and provide a resolution at the earliest.\n\nBest regards,\n{name}",
+      "Hi {name},\n\nI’m disappointed with the recent experience regarding {issue}. Kindly address this issue as soon as possible.\n\nWarm regards,\n{name}",
+      "Hello {name},\n\nThis is to inform you that {issue} has caused inconvenience. Please review and take necessary action.\n\nSincerely,\n{name}",
+      "Dear {name},\n\nI am writing to express my concern regarding {issue}. I would appreciate it if you could look into this matter and provide a resolution at the earliest.\n\nBest regards,",
+      "Hi {name},\n\nI’m disappointed with the recent experience regarding {issue}. Kindly address this issue as soon as possible.\n\nWarm regards,",
+      "Hello {name},\n\nThis is to inform you that {issue} has caused inconvenience. Please review and take necessary action.\n\nSincerely,",
+      "Dear {name},\n\nI wanted to bring to your attention that {issue} has not been resolved. Could you please update me on the status?\n\nBest regards,",
+      "Hi {name},\n\nThere seems to be an issue with {issue}. I hope this can be resolved quickly.\n\nKind regards,"     
+    ],
+    "apology": [
+      "I’m truly sorry for the inconvenience caused.",
+      "Please accept my sincere apologies for the issue.",
+      "I regret any trouble caused earlier.",
+      "Apologies for the misunderstanding.",
+      "Sorry for the delay, and thank you for your patience.",
+      "I want to express my apologies and appreciation for your understanding.",
+      "My apologies for any confusion that occurred."
     ],
     "other": [
-      "Regarding {topic}, please see the details.",
-      "This is an update on {topic}.",
-      "Follow-up on {topic}.",
-      "Information related to {topic} for your reference.",
-      "Please review the following on {topic}.",
-      "Here is an update regarding {topic}.",
-      "Sharing some thoughts about {topic}.",
-      "Please note the details concerning {topic}.",
-      "A quick note about {topic}.",
-      "This concerns {topic}."
+      "Just sharing a quick update.",
+      "This is a follow-up message.",
+      "Please review the following details.",
+      "Here’s an update for your reference.",
+      "Sharing some relevant information.",
+      "Please note the following.",
+      "A quick note for your attention."
+
     ]
   }
 }
