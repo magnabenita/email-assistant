@@ -1,0 +1,8 @@
+{
+  "intent_accuracy": 0.924,
+  "bleu": 0.82,
+  "rouge_l": 0.88,
+  "politeness_score": 4.6,
+  "ap@5": 0.87,
+  "avg_latency": 1.1
+}

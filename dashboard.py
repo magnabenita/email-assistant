@@ -24,7 +24,7 @@ FASTAPI_URL = "http://127.0.0.1:8000/suggest_email/"  # Adjust if different
 
 st.set_page_config(page_title="NLP Email Assistant Dashboard", layout="wide")
 
-st.title("📧 NLP Email Assistant Dashboard")
+st.title("NLP Email Assistant Dashboard")
 st.markdown("Interact with the FastAPI NLP backend and view insights on Enron emails.")
 
 # Sidebar
@@ -37,7 +37,7 @@ page = st.sidebar.radio("Go to", ["Suggest Email", "Email Dataset Explorer", "St
 if page == "Suggest Email":
     st.subheader("💡 Generate Smart Email Suggestions")
 
-    name = st.text_input("Your Name", "Magna")
+    name = st.text_input("Recipient Name", "Magna")
     email_text = st.text_area("Enter email text", "Need to request a meeting update.")
 
     if st.button("Generate Suggestions"):

@@ -62,10 +62,7 @@ project/
    ```bash
    uvicorn main:app --reload
    ```
-5. Launch the dashboard :
-   ```bash
-   streamlit run dashboard.py
-   ```
+
 ---
 
 ## 📡 API Endpoints
